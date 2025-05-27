@@ -6,7 +6,7 @@ Web-based recipe manager with favorites and status tracking.
 
 ```bash
 # Clone and setup
-git clone git@github.com:SILVERteCH00/receipe_management.git
+git clone https://github.com/SILVERteCH00/receipe_management.git
 cd receipe_management
 
 # Virtual environment
